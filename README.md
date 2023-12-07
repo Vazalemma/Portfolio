@@ -17,7 +17,7 @@ I've also used WordPress to create a website called CuteMollis for a swedish cli
 Java:
 
 https://github.com/Vazalemma/PR2_Projects
-- A project that started off out of personal interest, but I transitioned it into the 'practice final thesis' in university.
+- A project that started out of personal interest, but I transitioned it into the 'practice final thesis' in university.
 - There's an online flash game named Platform Racing 2. Using various bits of knowledge, I managed to program access to various functions that were inaccessible to common users.
 - I created a bot that answers to private messages, I created a level transfering method between accounts, I managed to transform images into block data and create a level from it.
 - But most importantly, I downloaded the game's whole level and user database to cheat at a monthly reoccurring event where you have to find a rare artifact hidden in a random level.
@@ -46,7 +46,7 @@ https://www.mediafire.com/file/c2dc3sbfc34n767
 - Castle'Sploder, a 2D platformer game, created by using Game Maker 8.0 and the IWBT Engine. Started as a personal project, ended up using for final thesis in high school.
 
 https://www.mediafire.com/file/9rax8m8x30yuj5a
-- Kaomigaym 2, a game I created as a birthday gift to a certain individual. A mixed genre, created using Game Maker 8.0.
+- Kaomigaym 2, a game I created as a birthday gift to a certain individual. A mixed genre, also created using Game Maker 8.0.
 
 .
 .
