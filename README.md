@@ -48,6 +48,9 @@ https://www.mediafire.com/file/c2dc3sbfc34n767
 https://www.mediafire.com/file/9rax8m8x30yuj5a
 - Kaomigaym 2, a game I created as a birthday gift to a certain individual. A mixed genre, also created using Game Maker 8.0.
 
+https://itch.io/jam/neurosama-birthday-game-jam/rate/2449468
+- Finding Neuro, a game I made in 72 hours for Vedal's game jam in Dec 27-31, 2023. Ranked 15th out of 122 submissions, and ranked #3 in theming - "Lost and Found".
+
 .
 .
 .
