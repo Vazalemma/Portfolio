@@ -45,9 +45,6 @@ Game Development:
 https://www.mediafire.com/file/c2dc3sbfc34n767
 - Castle'Sploder, a 2D platformer game, created by using Game Maker 8.0 and the IWBT Engine. Started as a personal project, ended up using for final thesis in high school.
 
-https://www.mediafire.com/file/9rax8m8x30yuj5a
-- Kaomigaym 2, a game I created as a birthday gift to a certain individual. A mixed genre, also created using Game Maker 8.0.
-
 https://itch.io/jam/neurosama-birthday-game-jam/rate/2449468
 - Finding Neuro, a game I made in 72 hours for Vedal's game jam in Dec 27-31, 2023. Ranked 15th out of 122 submissions, and ranked #3 in theming - "Lost and Found".
 
